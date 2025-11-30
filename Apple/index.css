@@ -1,0 +1,256 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+nav{
+    background-color: rgb(255, 255, 255,0.5);
+    color: rgb(0, 0, 0,);
+    display: flex;
+    justify-content: space-evenly;
+    position: sticky;
+    top:0%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+#main1{
+ background: url(i1.jpeg);
+background-size: cover;
+height: 700px;
+width: 100vw;
+}
+.main1{
+    position:relative;
+    text-align: center;
+    top: 440px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+#mainh1{
+    font-size:50px
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+#p1{
+    top: 450px;
+}
+#a1{
+    border: 1px solid blue;
+    border-radius: 30px;
+    font-size: small;
+    padding: 20px;
+    text-decoration: none;
+}
+#main2{
+    background: url(i3.jpeg);
+    height: 690px;
+    width: 100vw;
+    color: white;
+    text-align: center;
+}
+.main2{
+    position: relative;
+    top:50px;
+}
+
+#p2{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+}
+#mainh2{
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif
+}
+#a2{
+border: 1px solid blue;
+color: white; 
+background-color: blue;
+text-decoration: none;
+font-family: Arial, Helvetica, sans-serif;
+padding: 15px;
+border-radius: 40px;
+}
+#a3{
+font-family: Arial, Helvetica, sans-serif;
+border: 1px solid blue;
+padding: 15px;
+border-radius: 40px;
+text-decoration: none;
+color: rgb(46, 46, 223);
+}
+.p2{
+    position: relative;
+    top: 30px;
+}
+#main3{
+    background: url(i2.jpeg);
+    height: 690px;
+    width: 100vw;
+    background-size: cover;
+    
+}
+.main3{
+    color: black;
+    position: relative;
+    top: 65px;
+}
+#main3h{
+    text-align: center;
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif
+}
+#p3{
+    text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+}
+.p3{
+    text-align: center;
+    position: relative;
+    top: 35px;
+}
+#main4{
+    display: flex;
+    height: 580px;
+    width: 100vw;
+}
+#main41{
+    background: url(i4.jpeg);
+height: 580px;
+width: 50vw;
+
+
+}
+#main42{
+    background: url(i6.jpeg);
+    height: 580px;
+    width: 50vw;
+    background-size: cover;
+}
+.main41{
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+#mainh41{
+     font-size:35px;
+    font-family:Arial, Helvetica, sans-serif
+}
+#mainp2{
+     font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+}
+#a4{
+    text-decoration: none;
+    position: relative;
+    top: 22px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    
+}
+#a5{
+    text-decoration: none;
+    position: relative;
+    top: 22px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 15px;
+}
+.main42{
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+#mainh42{
+      font-size:35px;
+    font-family:Arial, Helvetica, sans-serif
+}
+#mainph44{
+     font-family: Arial, Helvetica, sans-serif;
+   font-size: 18px;
+}
+#a6{
+     text-decoration: none;
+    position: relative;
+    top: 22px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 18px;
+    background-color: blue;
+    color: white;
+}
+#a7{
+     text-decoration: none;
+    position: relative;
+    top: 22px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 15px;
+}
+#main5{
+    display: flex;
+    
+}
+#main5d1{
+background: url(i5.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+width: 50vw;
+height: 580px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#main5d2{
+background: url(i7.jpeg);
+background-size: cover;
+width: 50vw;
+height: 580px;
+}
+.main5d1{
+    position: relative;
+top: 80px;
+text-align: center;
+}
+#a8{
+      text-decoration: none;
+    position: relative;
+    top: 22px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 18px;
+    background-color: blue;
+    color: white;
+}
+#a9{
+     text-decoration: none;
+    position: relative;
+    top: 22px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 15px;
+}
+.main5d2{
+    position: relative;
+    top: 80px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#a10{
+   text-decoration: none;
+    position: relative;
+    top: 22px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 18px;
+    background-color: blue;
+    color: white;
+}
+#a11{
+ text-decoration: none;
+    position: relative;
+    top: 22px;
+    border: 1px solid blue;
+    border-radius: 30px;
+    padding: 15px;
+}
